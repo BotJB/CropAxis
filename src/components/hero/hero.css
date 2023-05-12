@@ -18,3 +18,30 @@
     font-size:4rem;
     padding:15px;
 }
+.intro{
+position: absolute;
+bottom: 45%;
+right: 40%;
+color: white;
+font-size: 1rem;
+padding: 15px;
+max-width: 30%;
+align-items: center;
+background-color: transparent;
+border:solid 1px white;
+border-radius: 20px;
+padding: 25px 10px;
+}
+.intro h3{
+    text-align: center;
+}
+.intro button{
+    align-items: center;
+    margin: 5px;
+    padding: 8px;
+    border-radius: 10px;
+    margin-left: 140px;
+}
+.intro p{
+    text-align: center;
+}

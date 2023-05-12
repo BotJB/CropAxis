@@ -1,0 +1,36 @@
+.footer{
+    position:relative;
+    background-color: #07161F;
+    width: 100%;
+    min-height: 100px;
+    padding:20px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.mail-icon{
+    color: white;
+    transition:0.5s;
+}
+.socials{
+    display: flex;
+    flex-direction: column;
+    
+
+}
+h4{
+    color:white;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 10px;
+    cursor:pointer;
+    transition:0.5s;
+}
+.mail-icon:hover{
+    transform: translateY(-10px);
+    transition: 0.5s;
+}

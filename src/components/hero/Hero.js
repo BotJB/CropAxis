@@ -4,7 +4,11 @@ const Hero = ({imageSrc}) => {
   return (
     <div className='hero'>
         <img src={imageSrc} alt="" />
-        <h1 className='hero_title'>Title</h1>
+        <div className="intro">
+          <h3>Welcome to CropAxis</h3>
+          <p>Where we make it possible for ypu to live your dreams</p>
+          <button>Let's Get started </button>
+        </div>
     </div>
   )
 }

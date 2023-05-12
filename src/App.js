@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Hero from './components/hero/Hero';
+import Footer from './components/footer/Footer';
 
 import Pic1 from './assests/Pic1.jpg'
 import Pic2 from './assests/Pic2.jpg'
@@ -22,6 +23,7 @@ function App() {
       title={'What we offer?'}
       subtitle={"We offer plenty of things to make your lives easier"}
        flipped={false} />
+       <Footer />
 
     </div>
   );
