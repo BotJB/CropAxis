@@ -7,7 +7,7 @@ const Hero = ({imageSrc}) => {
         <div className="intro">
           <h3>Welcome to CropAxis</h3>
           <p>Where we make it possible for ypu to live your dreams</p>
-          <button>Let's Get started </button>
+          <button>Explore...</button>
         </div>
     </div>
   )

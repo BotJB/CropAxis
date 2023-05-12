@@ -13,6 +13,7 @@
 }
 .slider-image{
     width: 60%;
+    border-radius: 30px;
 }
 .slider-text{
     flex:1;
